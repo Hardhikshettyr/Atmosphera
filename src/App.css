@@ -1,0 +1,39 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app__layout {
+  flex: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.8fr);
+  gap: 24px;
+  padding: 28px 32px 48px;
+  align-items: start;
+}
+
+.app__primary {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-width: 0;
+}
+
+.app__secondary {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: sticky;
+  top: 24px;
+}
+
+@media (max-width: 960px) {
+  .app__layout {
+    grid-template-columns: 1fr;
+    padding: 20px 18px 40px;
+  }
+  .app__secondary {
+    position: static;
+  }
+}
