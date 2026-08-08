@@ -117,7 +117,20 @@ Then open the URL Vite prints (usually `http://localhost:5173`).
 
 ## 📸 Screenshots
 
-*(Add screenshots or a demo GIF here before publishing — a hero shot of the dashboard plus one of the map view work well.)*
+<img width="1920" height="1012" alt="Screenshot from 2026-08-08 15-06-52" src="https://github.com/user-attachments/assets/a6c05fcc-f168-4494-b569-9d56ee62b6f9" />
+<img width="1920" height="1012" alt="Screenshot from 2026-08-08 15-07-05" src="https://github.com/user-attachments/assets/81cf9d30-c613-4e0f-bdca-6d1e54c89ed7" />
+<img width="1920" height="1012" alt="Screenshot from 2026-08-08 15-07-41" src="https://github.com/user-attachments/assets/e5693306-a628-4b5f-91dc-494bd05893ac" />
+<img width="1920" height="1012" alt="Screenshot from 2026-08-08 15-07-47" src="https://github.com/user-attachments/assets/a0829b29-9fea-4d66-947e-41d43f0fe5df" />
+<img width="774" height="432" alt="Screenshot from 2026-08-08 15-08-27" src="https://github.com/user-attachments/assets/d4463f93-dbaf-4093-ab42-6b786bf81485" />
+
+
+
+
+
+
+
+
+
 
 ---
 
