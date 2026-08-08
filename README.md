@@ -6,7 +6,6 @@
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?logo=vite&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-Maps-199900?logo=leaflet&logoColor=white)
-![No API Key](https://img.shields.io/badge/API_Key-Not_Required-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
@@ -101,7 +100,7 @@ Up to 3 saved cities. `Watchlist.jsx` fetches all of them concurrently with `Pro
 
 ```bash
 git clone https://github.com/Hardhikshettyr/Atmosphera.git
-cd atmosphera
+cd Atmosphera
 npm install
 ```
 
